@@ -1,4 +1,15 @@
-## Welcome to GitHub Pages
+## About Me
+
+I am a first year Master's student in <a href="https://www.ece.gatech.edu/" target="_blank">School of Electical and Computer Engineering</a> at <a href="https://www.gatech.edu/" target="_blank">Georgia Institute of Technology</a>. I am interested in building robust systems and frameworks that can support latest developments in the doamin of machine learning. My ongoing projects and coursework are aligned towards creating a foundational understanding of Distributed Systems and Deep Learning.
+
+### Ongoing Research
+
+- Teaching neural networks how to count, under the guidance of <a href="https://psychology.gatech.edu/sashank-varma" target="_blank">Dr. Sashank Varma</a> from <a href="https://ic.gatech.edu/" target="_blank">School of Interactive Computing</a>.
+- Exploring how high performance computing can be combined with quantum computing, with <a href="http://prod.tinker.cc.gatech.edu/" target="_blank"> TINKER group </a> under the supervision of <a href="https://www.ece.gatech.edu/faculty-staff-directory/tom-conte" target="_blank">Dr. Tom Conte</a>.
+
+### Projects
+
+1. Study of SpGEMM techniques and code profiling exascale computing proxy apps for better performance.
 
 You can use the [editor on GitHub](https://github.com/VimaGupta/vimagupta.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
