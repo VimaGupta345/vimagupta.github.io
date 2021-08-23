@@ -9,7 +9,20 @@ I am a first year Master's student in <a href="https://www.ece.gatech.edu/" targ
 
 ### Projects
 
-1. Study of SpGEMM techniques and code profiling exascale computing proxy apps for better performance.
+1. <a href="docs/papers/TINKER_report.pdf" target="_blank">Study</a>  of Sparse and General Matrix Multiplication techniques and code profiling of exascale computing proxy apps for better performance.
+2. CAB project
+3. ICN project
+
+### Work Experience
+
+1. PACE
+2. TA
+3. Arm
+
+### Interests and Hobbies
+
+
+### Social Networks
 
 You can use the [editor on GitHub](https://github.com/VimaGupta/vimagupta.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
