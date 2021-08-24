@@ -10,52 +10,21 @@ I am a first year Master's student in <a href="https://www.ece.gatech.edu/" targ
 ### Projects
 
 1. <a href="docs/papers/TINKER_report.pdf" target="_blank">Study</a>  of Sparse and General Matrix Multiplication techniques and code profiling of exascale computing proxy apps for better performance.
-2. CAB project
-3. ICN project
+2. <a href="docs/papers/CAB_Biologically_Plausible_Meta_Learning_Final_Report.pdf" target="_blank"> Meta-learning </a> biologically plausible update rules for unsupervised and semi-supervised representation learning.
+3. <a href="docs/papers/ECE_6115_Project (3) (1).pdf" target="_blank"> Physical Design Aware NoC design </a> for the DNN Inference Accelerator, Multiply-Accumulate Engine with Reconfigurable Interconnect.
 
 ### Work Experience
 
-1. PACE
-2. TA
-3. Arm
+I am currently working with <a href="https://www.paceworkout.com/" target="_blank"> PACE </a>, a fitness <a href="https://previewday.create-x.gatech.edu/company/pace" target="_blank"> startup with CREATE-X </a>  poised to take over the health care industry, leveraging deep learning and computer vision techniques. I am also the Graduate Teaching Assistant for CS 6476 Computer Vision, OMSCS since Jan'21 where I work on design, autograder and evaluation of assignments and course projects. Prior to master's, I was a Design Engineer at <a href="https://www.arm.com/" target="_blank"> Arm </a>  where I worked on physical design implementation of high performance and low power design at the sub-system level for Arm V7-V9 cores (4nm, 5nm and 11nm). 
 
 ### Interests and Hobbies
 
+In my free time, I like to read on topics spanning mythology, psychology and ancient history. I am also huge TV show and movie buff and into casual quizzing.
 
 ### Social Networks
 
-You can use the [editor on GitHub](https://github.com/VimaGupta/vimagupta.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VimaGupta/vimagupta.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<p float="left">
+<a href="https://scholar.google.com/citations?user=wyXqxjwAAAAJ&hl=en" target="_blank"> Google Scholar</a>
+<a href="https://github.com/VimaGupta" target="_blank"> GitHub </a>
+<a href="https://www.linkedin.com/in/vima-gupta/" target="_blank"> LinkedIn </a>
+</p>
