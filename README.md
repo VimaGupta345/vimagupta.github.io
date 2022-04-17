@@ -7,11 +7,10 @@ I am a first year Master's student in <a href="https://www.ece.gatech.edu/" targ
 - Teaching neural networks how to count, under the guidance of <a href="https://psychology.gatech.edu/sashank-varma" target="_blank">Dr. Sashank Varma</a> from <a href="https://ic.gatech.edu/" target="_blank">School of Interactive Computing</a>.
 - Exploring how high performance computing can be combined with quantum computing, with <a href="http://prod.tinker.cc.gatech.edu/" target="_blank"> TINKER group </a> under the supervision of <a href="https://www.ece.gatech.edu/faculty-staff-directory/tom-conte" target="_blank">Dr. Tom Conte</a>.
 
-### Projects
+### Publications
 
-1. <a href="docs/papers/TINKER_report.pdf" target="_blank">Study</a>  of Sparse and General Matrix Multiplication techniques and code profiling of exascale computing proxy apps for better performance.
-2. <a href="docs/papers/CAB_Biologically_Plausible_Meta_Learning_Final_Report.pdf" target="_blank"> Meta-learning </a> biologically plausible update rules for unsupervised and semi-supervised representation learning.
-3. <a href="docs/papers/ECE_6115_Project (3) (1).pdf" target="_blank"> Physical Design Aware NoC design </a> for the DNN Inference Accelerator, Multiply-Accumulate Engine with Reconfigurable Interconnect.
+1. Gupta, V., & Varma, S. (2022, July). Learning to count: a neural network model of the successor function. Poster to be presented at the 44th Annual Conference of the Cognitive Science Society, Toronto, Canada.
+2. V. Gupta and R. Singhal, "Performance Analysis of a Visible Light Vehicle-To-Vehicle Wireless Communication System," 2019 TEQIP III Sponsored International Conference on Microwave Integrated Circuits, Photonics and Wireless Networks (IMICPW), 2019, pp. 521-523, doi: 10.1109/IMICPW.2019.8933276.
 
 ### Work Experience
 
