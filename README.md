@@ -24,7 +24,7 @@ In my free time, I like to read on topics spanning mythology, psychology and anc
 ### Social Networks
 
 <p float="left">
-<a href="https://scholar.google.com/citations?user=wyXqxjwAAAAJ&hl=en" target="_blank"> Google Scholar</a>
+<a href="https://scholar.google.com/citations?user=Yno2pxMAAAAJ&hl=en" target="_blank"> Google Scholar</a>
 <a href="https://github.com/VimaGupta" target="_blank"> GitHub </a>
 <a href="https://www.linkedin.com/in/vima-gupta/" target="_blank"> LinkedIn </a>
 </p>
