@@ -1,6 +1,6 @@
 ## About Me
 
-I am a first year Master's student in <a href="https://www.ece.gatech.edu/" target="_blank">School of Electrical and Computer Engineering</a> at <a href="https://www.gatech.edu/" target="_blank">Georgia Institute of Technology</a>. I am interested in building robust systems and frameworks that can support latest developments in the domain of machine learning. My ongoing projects and coursework are aligned towards creating a foundational understanding of Distributed Systems and Deep Learning.
+I am a second year Master's student in <a href="https://www.cc.gatech.edu/" target="_blank">College of Computing</a> at <a href="https://www.gatech.edu/" target="_blank">Georgia Institute of Technology</a>. I am interested in building robust systems and frameworks that can support latest developments in the domain of machine learning. My ongoing projects and coursework are aligned towards creating a foundational understanding of systems for machine learning.
 
 ### Ongoing Research
 
