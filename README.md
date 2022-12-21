@@ -1,11 +1,11 @@
 ## About Me
 
-I am a second year Master's student in <a href="https://www.cc.gatech.edu/" target="_blank">College of Computing</a> at <a href="https://www.gatech.edu/" target="_blank">Georgia Institute of Technology</a>. I am interested in building robust systems and frameworks that can support latest developments in the domain of machine learning. My ongoing projects and coursework are aligned towards creating a foundational understanding of systems for machine learning.
+I am a second year Master's student in <a href="https://www.cc.gatech.edu/" target="_blank">College of Computing</a> at <a href="https://www.gatech.edu/" target="_blank">Georgia Institute of Technology</a>. I am primarily interested in building robust systems and frameworks that can support latest developments in the domain of machine learning. My ongoing projects and coursework are aligned towards creating a foundational understanding of distributed systems for machine learning and other domain specific optimizations.
 
 ### Ongoing Research
 
-- Teaching neural networks how to count, under the guidance of <a href="https://psychology.gatech.edu/sashank-varma" target="_blank">Dr. Sashank Varma</a> from <a href="https://ic.gatech.edu/" target="_blank">School of Interactive Computing</a>.
-- Exploring how high performance computing can be combined with quantum computing, with <a href="http://prod.tinker.cc.gatech.edu/" target="_blank"> TINKER group </a> under the supervision of <a href="https://www.ece.gatech.edu/faculty-staff-directory/tom-conte" target="_blank">Dr. Tom Conte</a>.
+- Teaching neural networks how to count, under the guidance of <a href="https://psychology.gatech.edu/sashank-varma" target="_blank">Dr. Sashank Varma</a> from <a href="https://ic.gatech.edu/" target="_blank">School of Interactive Computing</a>. (ArXiv link out soon!)
+- Exploring the qubit mapping, routing and scheduling problem for trapped-ion based quantum computers, with <a href="http://prod.tinker.cc.gatech.edu/" target="_blank"> TINKER group </a> under the supervision of <a href="https://www.ece.gatech.edu/faculty-staff-directory/tom-conte" target="_blank">Dr. Tom Conte</a>.
 
 ### Projects
 
