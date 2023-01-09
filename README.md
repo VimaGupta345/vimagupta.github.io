@@ -1,6 +1,6 @@
 ## About Me
 
-I am a second year Master's student in <a href="https://www.cc.gatech.edu/" target="_blank">College of Computing</a> at <a href="https://www.gatech.edu/" target="_blank">Georgia Institute of Technology</a>. I am interested in building robust systems and frameworks for computationally expensive domains that require a paradigm shift from traditional system design. My ongoing projects and coursework are aligned towards creating a foundational understanding of distributed systems for machine learning and other domain specific optimizations.
+I am a second year Master's student in <a href="https://www.cc.gatech.edu/" target="_blank">College of Computing</a> at <a href="https://www.gatech.edu/" target="_blank">Georgia Institute of Technology</a>. I am interested in building robust systems for computationally expensive domains that require a paradigm shift from traditional system design. My ongoing projects and coursework are aligned towards creating a foundational understanding of distributed systems for machine learning and other domain specific optimizations.
 
 ### Ongoing Research
 
