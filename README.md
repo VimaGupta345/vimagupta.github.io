@@ -9,9 +9,12 @@ I am a second year Master's student in <a href="https://www.cc.gatech.edu/" targ
 
 ### Projects
 
-1. <a href="docs/papers/TINKER_report.pdf" target="_blank">Study</a>  of Sparse and General Matrix Multiplication techniques and code profiling of exascale computing proxy apps for better performance.
-2. <a href="docs/papers/CAB_Biologically_Plausible_Meta_Learning_Final_Report.pdf" target="_blank"> Meta-learning </a> biologically plausible update rules for unsupervised and semi-supervised representation learning.
-3. <a href="docs/papers/ECE_6115_Project (3) (1).pdf" target="_blank"> Physical Design Aware NoC design </a> for the DNN Inference Accelerator, Multiply-Accumulate Engine with Reconfigurable Interconnect.
+1. Improving ranking consistency of One-shot Neural Architecture Search techniques
+2. Manifold mixup based regularization in federated learning 
+3. Virtual CPU scheduler with memory coordinator for KVM based hypervisor
+4. <a href="docs/papers/TINKER_report.pdf" target="_blank">Study</a>  of Sparse and General Matrix Multiplication techniques and code profiling of exascale computing proxy apps for better performance.
+5. <a href="docs/papers/CAB_Biologically_Plausible_Meta_Learning_Final_Report.pdf" target="_blank"> Meta-learning </a> biologically plausible update rules for unsupervised and semi-supervised representation learning.
+6. <a href="docs/papers/ECE_6115_Project (3) (1).pdf" target="_blank"> Physical Design Aware NoC design </a> for the DNN Inference Accelerator, Multiply-Accumulate Engine with Reconfigurable Interconnect.
 
 ### Work Experience
 
