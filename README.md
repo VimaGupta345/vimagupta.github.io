@@ -5,7 +5,7 @@ I am a second year Master's student in <a href="https://www.cc.gatech.edu/" targ
 ### Ongoing Research
 
 - Exploring the qubit mapping, routing and scheduling problem for trapped-ion based quantum computers, with <a href="http://prod.tinker.cc.gatech.edu/" target="_blank"> TINKER group </a> under the supervision of <a href="https://www.ece.gatech.edu/faculty-staff-directory/tom-conte" target="_blank">Dr. Tom Conte</a>. (Master's thesis)
-- Teaching neural networks how to count, under the guidance of <a href="https://psychology.gatech.edu/sashank-varma" target="_blank">Dr. Sashank Varma</a> from <a href="https://ic.gatech.edu/" target="_blank">School of Interactive Computing</a>. (ArXiv link out soon!)
+- Teaching neural networks how to count, under the guidance of <a href="https://psychology.gatech.edu/sashank-varma" target="_blank">Dr. Sashank Varma</a> from <a href="https://ic.gatech.edu/" target="_blank">School of Interactive Computing</a>. (<a href="https://escholarship.org/uc/item/91z2p9h1" target="_blank"> Poster at CogSci'22 </a>. 
 
 ### Projects
 
