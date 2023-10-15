@@ -1,15 +1,16 @@
 ## About Me
 
-I am a second year Master's student in <a href="https://www.cc.gatech.edu/" target="_blank">College of Computing</a> at <a href="https://www.gatech.edu/" target="_blank">Georgia Institute of Technology</a>. I am interested in building robust systems for computationally expensive domains that require a paradigm shift from traditional system design. My ongoing projects and coursework are aligned towards creating a foundational understanding of distributed systems for machine learning and other domain specific optimizations.
+I am a first year PhD student in <a href="https://www.cc.gatech.edu/" target="_blank">College of Computing</a> at <a href="https://www.gatech.edu/" target="_blank">Georgia Institute of Technology</a>. I am interested in building robust systems for computationally expensive foundational models like LLMs. My ongoing projects and coursework are aligned towards creating a foundational understanding of distributed systems for large models.
 
 ### Ongoing Research
 
+- How to improve latency and throughput for LLM inference systems.
 - Exploring the qubit mapping, routing and scheduling problem for trapped-ion based quantum computers, with <a href="http://prod.tinker.cc.gatech.edu/" target="_blank"> TINKER group </a> under the supervision of <a href="https://www.ece.gatech.edu/faculty-staff-directory/tom-conte" target="_blank">Dr. Tom Conte</a>. (Master's thesis)
-- Teaching neural networks how to count, under the guidance of <a href="https://psychology.gatech.edu/sashank-varma" target="_blank">Dr. Sashank Varma</a> from <a href="https://ic.gatech.edu/" target="_blank">School of Interactive Computing</a>. <a href="https://escholarship.org/uc/item/91z2p9h1" target="_blank"> Poster at CogSci'22! </a>. (Full paper under review at IJCAI'23)
+- Teaching neural networks how to count, under the guidance of <a href="https://psychology.gatech.edu/sashank-varma" target="_blank">Dr. Sashank Varma</a> from <a href="https://ic.gatech.edu/" target="_blank">School of Interactive Computing</a>. <a href="https://escholarship.org/uc/item/91z2p9h1" target="_blank"> Poster at CogSci'22! </a>. (Full paper under review at AAAI'23)
 
 ### Projects
 
-1. Improving ranking consistency of One-shot Neural Architecture Search techniques. (WIP)
+1. Improving ranking consistency of One-shot Neural Architecture Search techniques.
 2. Manifold mixup based regularization in federated learning. (<a href="https://github.com/VimaGupta345" target="_blank">code available on request</a>)
 3. Virtual CPU scheduler with memory coordinator for KVM based hypervisor. (<a href="https://github.com/VimaGupta345" target="_blank">code available on request</a>)
 4. <a href="docs/papers/TINKER_report.pdf" target="_blank">Study</a>  of Sparse and General Matrix Multiplication techniques and code profiling of exascale computing proxy apps for better performance.
@@ -18,7 +19,7 @@ I am a second year Master's student in <a href="https://www.cc.gatech.edu/" targ
 
 ### Experience
 
-I am a Graduate Research Assistant since Jan'22, working with Dr. Tom Conte, on discovering novel solutions for the qubit mapping and routing problem for shuttling based architectures. During my summer, I explored ML compiler frameworks for <a href="https://www.cerebras.net/" target="_blank"> Cerebras Systems </a>, where I had the opportunity to investigate how make <a href="https://arxiv.org/abs/2007.14062" target="_blank"> Large Language Models through more efficient through MLIR transformation passes. Previously, I have co-founded <a href="https://www.paceworkout.com/" target="_blank"> PACE </a>, a fitness <a href="https://previewday.create-x.gatech.edu/company/pace" target="_blank"> startup with CREATE-X </a>  poised to take over the health care industry, leveraging deep learning and computer vision techniques. 
+During my master's, I worked as a Graduate Research Assistant since Jan'22, with Dr. Tom Conte, on discovering novel solutions for the qubit mapping and routing problem for shuttling based architectures. During my summer, I explored ML compiler frameworks for <a href="https://www.cerebras.net/" target="_blank"> Cerebras Systems </a>, where I had the opportunity to investigate how make <a href="https://arxiv.org/abs/2007.14062" target="_blank"> Large Language Models through more efficient through MLIR transformation passes. Previously, I have co-founded <a href="https://www.paceworkout.com/" target="_blank"> PACE </a>, a fitness <a href="https://previewday.create-x.gatech.edu/company/pace" target="_blank"> startup with CREATE-X </a>  poised to take over the health care industry, leveraging deep learning and computer vision techniques. 
  
 As a Graduate Teaching Assistant for <a href="https://omscs.gatech.edu/cs-6476-computer-vision" target"_blank"> CS 6476 Computer Vision </a>, I worked on designing assignments, autograder and evaluation of assignments and course projects. Prior to my master's, I was a Design Engineer at <a href="https://www.arm.com/" target="_blank"> Arm </a>  where I worked on physical design implementation of high performance and low power design at the sub-system level for Arm V7-V9 cores (4nm, 5nm and 11nm), including power, performance and area optimization through octa-cluster co-design. During my undergrad, I also worked on <a href="docs/papers/Performance_Analysis_of_a_Visible_Light_Vehicle-To-Vehicle_Wireless_Communication_System.pdf" target="_blank"> foggy channel modelling </a> for autonomous vehicles that led to Best Paper Award at IMICPW. You can find my resume <a href="docs/papers/Vima_Gupta_PhD (11).pdf" target="_blank"> here </a>. 
 
