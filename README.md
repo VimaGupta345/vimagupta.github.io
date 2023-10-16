@@ -4,18 +4,10 @@ I am a first year PhD student in <a href="https://www.cc.gatech.edu/" target="_b
 
 ### Ongoing Research
 
-- How to improve latency and throughput for LLM inference systems.
+- How to improve latency and throughput for LLM inference systems without compromising on their accuracy.
 - Exploring the qubit mapping, routing and scheduling problem for trapped-ion based quantum computers, with <a href="http://prod.tinker.cc.gatech.edu/" target="_blank"> TINKER group </a> under the supervision of <a href="https://www.ece.gatech.edu/faculty-staff-directory/tom-conte" target="_blank">Dr. Tom Conte</a>. (Master's thesis)
 - Teaching neural networks how to count, under the guidance of <a href="https://psychology.gatech.edu/sashank-varma" target="_blank">Dr. Sashank Varma</a> from <a href="https://ic.gatech.edu/" target="_blank">School of Interactive Computing</a>. <a href="https://escholarship.org/uc/item/91z2p9h1" target="_blank"> Poster at CogSci'22! </a>. (Full paper under review at AAAI'23)
 
-### Projects
-
-1. Improving ranking consistency of One-shot Neural Architecture Search techniques.
-2. Manifold mixup based regularization in federated learning. (<a href="https://github.com/VimaGupta345" target="_blank">code available on request</a>)
-3. Virtual CPU scheduler with memory coordinator for KVM based hypervisor. (<a href="https://github.com/VimaGupta345" target="_blank">code available on request</a>)
-4. <a href="docs/papers/TINKER_report.pdf" target="_blank">Study</a>  of Sparse and General Matrix Multiplication techniques and code profiling of exascale computing proxy apps for better performance.
-5. <a href="docs/papers/CAB_Biologically_Plausible_Meta_Learning_Final_Report.pdf" target="_blank"> Meta-learning </a> biologically plausible update rules for unsupervised and semi-supervised representation learning.
-6. <a href="docs/papers/ECE_6115_Project (3) (1).pdf" target="_blank"> Physical Design Aware NoC design </a> for the DNN Inference Accelerator, Multiply-Accumulate Engine with Reconfigurable Interconnect.
 
 ### Experience
 
