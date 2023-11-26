@@ -20,7 +20,6 @@ As a Graduate Teaching Assistant for <a href="https://www.omscs.gatech.edu/cs-64
 In my free time, I like to read on topics spanning mythology, psychology and ancient history. I am also huge TV show and movie buff and into casual quizzing.
 
 ### Social Networks
-
 <p float="left">
 <a href="https://scholar.google.com/citations?user=Yno2pxMAAAAJ&hl=en" target="_blank"> Google Scholar</a>
 <a href="https://github.com/VimaGupta345" target="_blank"> GitHub </a>
