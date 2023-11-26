@@ -1,5 +1,7 @@
 theme: jekyll-theme-minimal
 title: Vima Gupta
+github: 
+  owner_url: https://github.com/VimaGupta345
 logo: /img/IMG-20181121-WA0001.jpg
 description: PhD student, College of Computing, GaTech
 show_downloads: false
