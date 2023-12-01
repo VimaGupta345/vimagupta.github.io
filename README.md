@@ -12,7 +12,7 @@ I am a first year PhD student working on Systems for ML, in <a href="https://www
 
 ### Experience
 
-During summer of 2022, I explored ML compiler frameworks for [Cerebras Systems](https://www.cerebras.net/), where I had the opportunity to how make sparse attention faster on LLMs through MLIR transformation passes. Previously, I have co-founded <a href="https://www.paceworkout.com/" target="_blank"> PACE </a>, a fitness <a href="https://previewday.create-x.gatech.edu/company/pace" target="_blank"> startup with CREATE-X </a>  poised to take over the health care industry, leveraging deep learning and computer vision techniques. 
+During summer of 2022, I explored ML compiler frameworks for [Cerebras Systems](https://www.cerebras.net/), where I had the opportunity to how make sparse attention faster on LLMs through MLIR transformation passes. Previously, I have co-founded PACE, a fitness [startup](https://create-x.gatech.edu/) with CREATE-X, aimed at remote physical therapy, leveraging deep learning and computer vision techniques. 
  
 Prior to my master's, I was a Design Engineer at <a href="https://www.arm.com/" target="_blank"> Arm </a>  where I worked on physical design implementation of high performance and low power design at the sub-system level for Arm V7-V9 cores (4nm, 5nm and 11nm), including power, performance and area optimization through octa-cluster co-design. During my undergrad, I also worked on <a href="docs/papers/Performance_Analysis_of_a_Visible_Light_Vehicle-To-Vehicle_Wireless_Communication_System.pdf" target="_blank"> foggy channel modelling </a> for autonomous vehicles that led to Best Paper Award at IMICPW. You can find my resume <a href="docs/papers/Vima_Gupta_PhD.pdf" target="_blank"> here </a>. 
 
