@@ -1,16 +1,17 @@
 ## About Me
 
-I am a first year PhD student working on Systems for ML, in <a href="https://www.cc.gatech.edu/" target="_blank">College of Computing</a> at <a href="https://www.gatech.edu/" target="_blank">Georgia Institute of Technology</a>. I am privileged to be advised by [Dr. Anand Iyer](https://www.anand-iyer.com/) and [Dr. Ada Gavrilovska](https://sites.cc.gatech.edu/home/ada/). I am currently building robust systems for computationally expensive foundational models like LLMs. My ongoing projects and coursework are aligned towards creating a foundational understanding of distributed systems for large models.
+I am a first year PhD student working on Systems for ML, in <a href="https://www.cc.gatech.edu/" target="_blank">College of Computing</a> at <a href="https://www.gatech.edu/" target="_blank">Georgia Institute of Technology</a>. I am fortunate to be advised by [Dr. Anand Iyer](https://www.anand-iyer.com/) and [Dr. Ada Gavrilovska](https://sites.cc.gatech.edu/home/ada/). I am currently building robust systems for computationally expensive foundational models like LLMs. My ongoing projects and coursework are aligned towards creating a foundational understanding of distributed systems for large models.
 
 ### Ongoing Research
 
-- Modeling the pareto-frontier curve for accuracy (quality of output generated across tasks) versus system footprint (latency, throughput and KV cache memory) trade-offs for small language models and large language models.
+- Optimizing inference latency for Mixture of Expert models by leveraging runtime information and kernel optimization
 - Designing scheduling policies for speeding up LLM inference for lower latency request and while gaining higher throughput using speculative decoding.
 - Exploring the qubit mapping, routing and scheduling problem for trapped-ion based quantum computers, with <a href="http://prod.tinker.cc.gatech.edu/" target="_blank"> TINKER group </a> under the supervision of <a href="https://www.ece.gatech.edu/faculty-staff-directory/tom-conte" target="_blank">Dr. Tom Conte</a>. (Master's thesis)
-- Teaching neural networks how to count, under the guidance of [Dr. Sashank Varma](https://psychology.gatech.edu/sashank-varma). <a href="https://escholarship.org/uc/item/91z2p9h1" target="_blank"> Poster at CogSci'22! </a>. [Full paper under review at AAAI'23](https://arxiv.org/abs/2311.15194)
+- Teaching neural networks how to count, under the guidance of [Dr. Sashank Varma](https://psychology.gatech.edu/sashank-varma). <a href="https://escholarship.org/uc/item/91z2p9h1" target="_blank"> Poster at CogSci'22! </a>. [Full paper accepted at CogSci'24](https://escholarship.org/content/qt5cz2v6d5/qt5cz2v6d5_noSplash_d89a45b032c07c6c0d0c5cfca8df2884.pdf)
 
 
 ### Experience
+I am currently interning with Microsoft Research in the AI Frameworks team where I am enriching the existing hand-written kernels for LLM inference through systematic performance models.
 
 During summer of 2022, I explored ML compiler frameworks for [Cerebras Systems](https://www.cerebras.net/), where I had the opportunity to how make sparse attention faster on LLMs through MLIR transformation passes. Previously, I have co-founded PACE, a fitness [startup](https://create-x.gatech.edu/) with CREATE-X, aimed at remote physical therapy, leveraging deep learning and computer vision techniques. 
  
